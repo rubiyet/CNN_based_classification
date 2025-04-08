@@ -92,4 +92,7 @@ Non-trainable params: 800
  
 ![image](https://user-images.githubusercontent.com/57152712/170844121-b2712ee0-ea84-477c-b64d-03a696fb0d02.png)
 
+![Traning and validation accuracy](https://github.com/user-attachments/assets/f43e445c-dc48-4339-ae44-2d5deb1c29ac)
+
+
  
